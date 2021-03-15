@@ -1,6 +1,5 @@
-# ios-blog
-
-## Build Setup
+# 一个模仿ipad锁屏解锁效果的小demo
+## 基于nuxtjs
 
 ```bash
 # install dependencies
@@ -16,5 +15,3 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
